@@ -3,9 +3,11 @@ Develop a simple game played via the network.
 
 ## The game:
 It is a simple guessing game. The server generates a secret code - an X digit number (where X is a number from 3 to 8 determined by the client at the start of the game). The client’s task is to guess the combination. Each combo has only unique digits (no repeats). The client task is to guess the exact combination with the fewest number of guesses (up to a maximum of 10 guesses).
+
 For each incorrect guess the client gets a clue in the form of two numbers:
 
 Correct Positions: number of digits in guess that are in the correct position
+
 Incorrect Positions: number of digits in guess that occur in the code but are in an incorrect position
 
 If the client correctly guesses the code, the server announces the number of guesses made.
