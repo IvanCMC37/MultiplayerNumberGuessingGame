@@ -1,0 +1,72 @@
+[2018-05-18 15:32:46.908]
+New client connected from 127.0.0.1 via port 59189
+[2018-05-18 15:32:46.908]
+Choosing 3 numbers from pool...
+[2018-05-18 15:32:46.908]
+Generated number : 075
+[2018-05-18 15:32:46.908]
+[IN]123
+[2018-05-18 15:32:46.908]
+corret number : 0 correct position : 0 remaining : 9 times
+[2018-05-18 15:32:46.908]
+[IN]234
+[2018-05-18 15:32:46.908]
+corret number : 0 correct position : 0 remaining : 8 times
+[2018-05-18 15:32:46.908]
+[IN]646
+[2018-05-18 15:32:46.908]
+Your input cannot contains duplicated numbers, remaining : 7 times
+[2018-05-18 15:32:46.908]
+[IN]563
+[2018-05-18 15:32:46.908]
+corret number : 1 correct position : 0 remaining : 6 times
+[2018-05-18 15:32:46.908]
+[IN]853
+[2018-05-18 15:32:46.908]
+corret number : 1 correct position : 0 remaining : 5 times
+[2018-05-18 15:32:46.908]
+[IN]12345
+[2018-05-18 15:32:46.908]
+Number must be the same size of required, remaining : 4 times
+[2018-05-18 15:32:46.908]
+Player chose to forfeit
+[2018-05-18 15:32:46.908]
+Client requested to play again.
+[2018-05-18 15:32:46.908]
+Choosing 6 numbers from pool...
+[2018-05-18 15:32:46.908]
+Generated number : 463805
+[2018-05-18 15:32:46.908]
+[IN]123456
+[2018-05-18 15:32:46.908]
+corret number : 4 correct position : 1 remaining : 9 times
+[2018-05-18 15:32:46.908]
+[IN]098765
+[2018-05-18 15:32:46.908]
+corret number : 4 correct position : 1 remaining : 8 times
+[2018-05-18 15:32:46.908]
+[IN]123455
+[2018-05-18 15:32:46.908]
+Your input cannot contains duplicated numbers, remaining : 7 times
+[2018-05-18 15:32:46.908]
+[IN]123456
+[2018-05-18 15:32:46.908]
+corret number : 4 correct position : 1 remaining : 6 times
+[2018-05-18 15:32:46.908]
+[IN]463805
+[2018-05-18 15:32:46.908]
+corret number : 6 correct position : 6 remaining : 5 times
+[2018-05-18 15:32:46.908]
+Player got the correct number...
+[2018-05-18 15:32:46.908]
+Announcing winner now...
+[2018-05-18 15:32:46.908]
+Client requested to play again.
+[2018-05-18 15:32:46.908]
+Choosing 8 numbers from pool...
+[2018-05-18 15:32:46.908]
+Generated number : 01479238
+[2018-05-18 15:32:46.908]
+Player chose to forfeit
+[2018-05-18 15:32:46.908]
+Client requested to end the game

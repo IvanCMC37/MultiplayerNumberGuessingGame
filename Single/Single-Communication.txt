@@ -1,0 +1,64 @@
+[2018-05-18 15:32:46.908]
+New Game Started
+[2018-05-18 15:32:46.908]
+The unique number has 3 digit(s)
+[2018-05-18 15:32:46.908]
+corret number : 0 correct position : 0 remaining : 9 times
+[2018-05-18 15:32:46.908]
+corret number : 0 correct position : 0 remaining : 8 times
+[2018-05-18 15:32:46.908]
+Your input cannot contains duplicated numbers, remaining : 7 times
+[2018-05-18 15:32:46.908]
+corret number : 1 correct position : 0 remaining : 6 times
+[2018-05-18 15:32:46.908]
+corret number : 1 correct position : 0 remaining : 5 times
+[2018-05-18 15:32:46.908]
+Number must be the same size of required, remaining : 4 times
+[2018-05-18 15:32:46.908]
+[OUT]Player chose to forfeit
+[2018-05-18 15:32:46.908]
+[OUT]The answer is : 075
+[2018-05-18 15:32:46.908]
+[OUT]Want to play again? Play again(p)/ Quit(q)
+[2018-05-18 15:32:46.908]
+[IN]p
+[2018-05-18 15:32:46.908]
+[OUT]You chose not to play again
+[2018-05-18 15:32:46.908]
+New Game Started
+[2018-05-18 15:32:46.908]
+The unique number has 6 digit(s)
+[2018-05-18 15:32:46.908]
+corret number : 4 correct position : 1 remaining : 9 times
+[2018-05-18 15:32:46.908]
+corret number : 4 correct position : 1 remaining : 8 times
+[2018-05-18 15:32:46.908]
+Your input cannot contains duplicated numbers, remaining : 7 times
+[2018-05-18 15:32:46.908]
+corret number : 4 correct position : 1 remaining : 6 times
+[2018-05-18 15:32:46.908]
+corret number : 6 correct position : 6 remaining : 5 times
+[2018-05-18 15:32:46.908]
+[OUT]Game ended
+[2018-05-18 15:32:46.908]
+[OUT]You got the correct answer 463805
+[2018-05-18 15:32:46.908]
+[OUT]Want to play again? Play again(p)/ Quit(q)
+[2018-05-18 15:32:46.908]
+[IN]p
+[2018-05-18 15:32:46.908]
+[OUT]You chose not to play again
+[2018-05-18 15:32:46.908]
+New Game Started
+[2018-05-18 15:32:46.908]
+The unique number has 8 digit(s)
+[2018-05-18 15:32:46.908]
+[OUT]Player chose to forfeit
+[2018-05-18 15:32:46.908]
+[OUT]The answer is : 01479238
+[2018-05-18 15:32:46.908]
+[OUT]Want to play again? Play again(p)/ Quit(q)
+[2018-05-18 15:32:46.908]
+[IN]q
+[2018-05-18 15:32:46.908]
+[OUT]You chose not to play again

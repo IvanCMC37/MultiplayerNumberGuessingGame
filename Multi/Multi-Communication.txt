@@ -1,0 +1,127 @@
+[2018-05-18 16:34:00.522]
+[OUT]Register your name now!
+[2018-05-18 16:34:00.522]
+[OUT]Please enter your name
+[2018-05-18 16:34:00.522]
+[IN]ivan
+[2018-05-18 16:34:00.522]
+[OUT]You have been added to queue one sec...
+[2018-05-18 16:34:00.522]
+[OUT]New Game Started
+[2018-05-18 16:34:00.522]
+[OUT]The unique number has 4 digit(s)
+[2018-05-18 16:34:00.522]
+[OUT]Input your guess now!
+[2018-05-18 16:34:00.522]
+ivan[OUT]Please give your input for guessing...
+[2018-05-18 16:34:00.522]
+ivan[IN]f
+[2018-05-18 16:34:00.522]
+ivan[OUT]Player ivan chose to forfeit
+[2018-05-18 16:34:00.522]
+ivan[OUT]The answer is : 6412
+[2018-05-18 16:34:00.522]
+ivan[OUT]Checking if current player(s) has finished as well...
+[2018-05-18 16:34:00.522]
+Final Ranking:
+[2018-05-18 16:34:00.522]
+[OUT]ken  11
+[2018-05-18 16:34:00.522]
+[OUT]ivan  11
+[2018-05-18 16:34:00.522]
+Want to play again? Play again(p)/ Quit(q)
+[2018-05-18 16:34:00.522]
+ivan[OUT]Please give your input for further operation...
+[2018-05-18 16:34:00.522]
+ivan[IN]q
+[2018-05-18 16:34:00.522]
+ivan[OUT]You chose not to play again
+ 7 times
+[2018-05-18 16:32:58.642]
+ivan[OUT]Please give your input for guessing...
+[2018-05-18 16:32:58.642]
+ivan[IN]234
+[2018-05-18 16:32:58.642]
+ivan[OUT]corret number : 1 correct position : 1 remaining : 6 times
+[2018-05-18 16:32:58.642]
+ivan[OUT]Please give your input for guessing...
+[2018-05-18 16:32:58.642]
+ivan[IN]784
+[2018-05-18 16:32:58.642]
+ivan[OUT]corret number : 1 correct position : 1 remaining : 5 times
+[2018-05-18 16:32:58.642]
+ivan[OUT]Please give your input for guessing...
+[2018-05-18 16:32:58.642]
+ivan[IN]1234
+[2018-05-18 16:32:58.642]
+ivan[OUT]Number must be the same size of required, remaining : 4 times
+[2018-05-18 16:32:58.642]
+ivan[OUT]Please give your input for guessing...
+[2018-05-18 16:32:58.642]
+ivan[IN]f
+[2018-05-18 16:32:58.642]
+ivan[OUT]Player ivan chose to forfeit
+[2018-05-18 16:32:58.642]
+ivan[OUT]The answer is : 285
+[2018-05-18 16:32:58.642]
+ivan[OUT]Checking if current player(s) has finished as well...
+[2018-05-18 16:32:58.642]
+Final Ranking:
+[2018-05-18 16:32:58.642]
+[OUT]david  4
+[2018-05-18 16:32:58.642]
+[OUT]ivan  11
+[2018-05-18 16:32:58.642]
+Want to play again? Play again(p)/ Quit(q)
+[2018-05-18 16:32:58.642]
+ivan[OUT]Please give your input for further operation...
+[2018-05-18 16:32:58.642]
+ivan[IN]p
+[2018-05-18 16:32:58.642]
+ivan[OUT]You chose to play again
+[2018-05-18 16:32:58.642]
+[OUT]Register your name now!
+[2018-05-18 16:32:58.642]
+[OUT]Please enter your name
+[2018-05-18 16:32:58.642]
+[IN]ken
+[2018-05-18 16:32:58.642]
+[OUT]You have been added to queue one sec...
+[2018-05-18 16:32:58.642]
+[OUT]Please type a number within 3-8 in order to start game
+[2018-05-18 16:32:58.642]
+[OUT]New Game Started
+[2018-05-18 16:32:58.642]
+[OUT]The unique number has 4 digit(s)
+[2018-05-18 16:32:58.642]
+[OUT]Input your guess now!
+[2018-05-18 16:32:58.642]
+ken[OUT]Please give your input for guessing...
+[2018-05-18 16:32:58.642]
+ken[IN]1234
+[2018-05-18 16:32:58.642]
+ken[OUT]corret number : 3 correct position : 0 remaining : 9 times
+[2018-05-18 16:32:58.642]
+ken[OUT]Please give your input for guessing...
+[2018-05-18 16:32:58.642]
+ken[IN]f
+[2018-05-18 16:32:58.642]
+ken[OUT]Player ken chose to forfeit
+[2018-05-18 16:32:58.642]
+ken[OUT]The answer is : 6412
+[2018-05-18 16:32:58.642]
+ken[OUT]Checking if current player(s) has finished as well...
+[2018-05-18 16:32:58.642]
+Final Ranking:
+[2018-05-18 16:32:58.642]
+[OUT]ken  11
+[2018-05-18 16:32:58.642]
+[OUT]ivan  11
+[2018-05-18 16:32:58.642]
+Want to play again? Play again(p)/ Quit(q)
+[2018-05-18 16:32:58.642]
+ken[OUT]Please give your input for further operation...
+[2018-05-18 16:32:58.642]
+ken[IN]q
+[2018-05-18 16:32:58.642]
+ken[OUT]You chose not to play again

@@ -1,0 +1,112 @@
+[2018-05-18 16:34:00.522]
+New client connected from 127.0.0.1 via port 59363
+[2018-05-18 16:34:00.522]
+[IN]ivan
+[2018-05-18 16:34:00.522]
+ivan[IN]f
+[2018-05-18 16:34:00.522]
+ivan[OUT]Player ivan chose to forfeit
+[2018-05-18 16:34:00.522]
+ken  11
+[2018-05-18 16:34:00.522]
+ivan  11
+[2018-05-18 16:34:00.522]
+Final Ranking:
+[2018-05-18 16:34:00.522]
+[OUT]ken  11
+[2018-05-18 16:34:00.522]
+[OUT]ivan  11
+[2018-05-18 16:34:00.522]
+ivan[IN]q
+[2018-05-18 16:34:00.522]
+ivan[OUT]You chose not to play again
+2:58.642]
+ivan[OUT]corret number : 1 correct position : 0 remaining : 9 times
+[2018-05-18 16:32:58.642]
+ivan[IN]345
+[2018-05-18 16:32:58.642]
+[IN]345
+[2018-05-18 16:32:58.642]
+ivan[OUT]corret number : 1 correct position : 1 remaining : 8 times
+[2018-05-18 16:32:58.642]
+ivan[IN]673
+[2018-05-18 16:32:58.642]
+[IN]673
+[2018-05-18 16:32:58.642]
+ivan[OUT]corret number : 0 correct position : 0 remaining : 7 times
+[2018-05-18 16:32:58.642]
+ivan[IN]234
+[2018-05-18 16:32:58.642]
+[IN]234
+[2018-05-18 16:32:58.642]
+ivan[OUT]corret number : 1 correct position : 1 remaining : 6 times
+[2018-05-18 16:32:58.642]
+ivan[IN]784
+[2018-05-18 16:32:58.642]
+[IN]784
+[2018-05-18 16:32:58.642]
+ivan[OUT]corret number : 1 correct position : 1 remaining : 5 times
+[2018-05-18 16:32:58.642]
+ivan[IN]1234
+[2018-05-18 16:32:58.642]
+[IN]1234
+[2018-05-18 16:32:58.642]
+ivan[OUT]Number must be the same size of required, remaining : 4 times
+[2018-05-18 16:32:58.642]
+ivan[IN]f
+[2018-05-18 16:32:58.642]
+ivan[OUT]Player ivan chose to forfeit
+[2018-05-18 16:32:58.642]
+david  4
+[2018-05-18 16:32:58.642]
+ivan  11
+[2018-05-18 16:32:58.642]
+Final Ranking:
+[2018-05-18 16:32:58.642]
+[OUT]david  4
+[2018-05-18 16:32:58.642]
+[OUT]ivan  11
+[2018-05-18 16:32:58.642]
+ivan[IN]p
+[2018-05-18 16:32:58.642]
+ivan[OUT]You chose to play again
+[2018-05-18 16:32:58.642]
+Entering setup
+[2018-05-18 16:32:58.642]
+[IN]ken
+[2018-05-18 16:32:58.642]
+Player one registered
+[2018-05-18 16:32:58.642]
+Less than 3 players game started
+[2018-05-18 16:32:58.642]
+[IN]4
+[2018-05-18 16:32:58.642]
+ken chose 4 digit(s) number.
+[2018-05-18 16:32:58.642]
+Choosing 4 numbers from pool...
+[2018-05-18 16:32:58.642]
+Generated number : 6412
+[2018-05-18 16:32:58.642]
+ken[IN]1234
+[2018-05-18 16:32:58.642]
+[IN]1234
+[2018-05-18 16:32:58.642]
+ken[OUT]corret number : 3 correct position : 0 remaining : 9 times
+[2018-05-18 16:32:58.642]
+ken[IN]f
+[2018-05-18 16:32:58.642]
+ken[OUT]Player ken chose to forfeit
+[2018-05-18 16:32:58.642]
+ken  11
+[2018-05-18 16:32:58.642]
+ivan  11
+[2018-05-18 16:32:58.642]
+Final Ranking:
+[2018-05-18 16:32:58.642]
+[OUT]ken  11
+[2018-05-18 16:32:58.642]
+[OUT]ivan  11
+[2018-05-18 16:32:58.642]
+ken[IN]q
+[2018-05-18 16:32:58.642]
+ken[OUT]You chose not to play again
